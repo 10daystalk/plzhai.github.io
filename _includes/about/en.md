@@ -1,8 +1,5 @@
-
-
 > a mathematical dog
-
-> Live Read Discover
+> Live  Read  Discover
 
 
 I believe that meaningful life is nothing more than three things: life, reading, and discovery.
