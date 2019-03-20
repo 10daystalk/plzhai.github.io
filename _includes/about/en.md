@@ -1,5 +1,4 @@
 > a math dog
->
 > Live  Read  Discover
 
 I believe that meaningful life is nothing more than three things: life, reading, and discovery.
@@ -15,5 +14,3 @@ The upcoming 2019, I hope to progress with you.
 2018/12/3 
 
 Beijing Zhongguancun Science Park
-
-
