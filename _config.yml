@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     工程师墨翟
+#weibo_username:     工程师墨翟
 instagram_username:     plzhai
 github_username:    plzhai
 twitter_username:   penglong14
