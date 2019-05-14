@@ -111,6 +111,12 @@ layout: default
                 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
                 <!-- 网易云跟帖 评论框 end -->
                 {% endif %}
+		 
+		{% if site.gitalk %}
+                <div class="comment">
+                    {% include comments.html %}
+                </div>
+                {% endif %}
             </div>  
 
     <!-- Side Catalog Container -->
