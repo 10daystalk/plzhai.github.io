@@ -64,13 +64,13 @@ disqus_username: false
 # Netease settings
 netease_comment: false
 
-gitalk:
-   enable: true
-   owner: plzhai
-   repo: plzhai.github.io
-   clientID: 7e76d3e2680cc9b26cf9
-   clientSecret: 50664e90627069168dc17c00d8d55026bde65b7c
-   admin: plzhai
+#gitalk:
+#   enable: true
+#   owner: plzhai
+#   repo: plzhai.github.io
+#   clientID: 7e76d3e2680cc9b26cf9
+#   clientSecret: 50664e90627069168dc17c00d8d55026bde65b7c
+#   admin: plzhai
 
 
 # Analytics settings
