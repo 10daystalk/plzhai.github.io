@@ -27,6 +27,10 @@ Once we get the optimal representation,we can compare it with the representation
 
 ##### Rate distortion theory
 
+$$
+A = \{ \langle G \rangle \vert G \text{ is a connected undirected graph}\}
+$$
+
 Let X denote the signal (message) space with a fixed probability measure p(x), and let <img src="https://latex.codecogs.com/gif.latex?$\tilde{X}$" title="$\tilde{X}$" /> denote its quantized codebook or compressed representation. For ease of exposition we assume here that both of these sets are finite, that is, a continuous space should first be quantized.
 
 What determines the quality of a quantization? The first factor is of course the rate, or the average number of bits per message needed to specify an element in the codebook without confusion. This number per element of X is bounded from below by the mutual information,
