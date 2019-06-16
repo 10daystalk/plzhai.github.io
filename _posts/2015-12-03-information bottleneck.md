@@ -4,6 +4,7 @@ title: "How do we understand Information Bottleneck?"
 subtitle: 'A good measure to evaluate your network'
 author: "Zpl"
 header-style: text
+mathjax: true
 tags:
   - Representation Learning
   - Deep Learning
@@ -142,7 +143,7 @@ SO we can compute the IB functions layer by layer and evaluate their performance
 
 Our numerical experiments were motivated by the Information Bottleneck framework. We demonstrated that the visualization of the layers in the information plane reveals many - so far unknown - details about the inner working of Deep Learning and Deep Neural Networks. They revealed the distinct phases of the SGD optimization, drift and diﬀusion, which explain the ERM and the representation compression trajectories of the layers. The stochasticity of SGD methods is usually motivated as a way of escaping local minima of the training error. In this paper we give it a new, perhaps much more important role: it generates highly efcient internal representations through compression by diﬀusion. This is consistent with other recent suggestions on the role of noise in Deep Learning.
 
-#### References
+#### References 
 
 Liam Paninski. Estimation of entropy and mutual information. Neural Comput., 15(6):1191–1253, June 2003. ISSN 0899-7667. doi: 10.1162/089976603321780272.
 
